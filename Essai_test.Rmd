@@ -52,10 +52,11 @@ all_continuous2() ~ c(
       "{mean} ({sd})",          # Moyenne (écart-type)
       "{median}",               # Médiane
       "{min}",                  # Minimum
-      "{max}"                   # Maximum # Pour continus, afficher moyenne et écart-type
+      "{max}"                   # Maximum # Pour continous2, afficher plusieurs stat
 )
 )
 )
 
 
 ```
+
