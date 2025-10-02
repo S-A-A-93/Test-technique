@@ -1,0 +1,101 @@
+tri,libelle_sexe,npop,annee,prev,top,dept,region,patho_niv2,libelle_classe_age,ntop,sexe,patho_niv1,niveau_prioritaire,cla_age_5,patho_niv3
+22.0,tous sexes,66230,2016,5.98,CAN_AUT_CAT,77,11,Autres cancers,de 65 à 69 ans,3960,9,Cancers,2,65-69,
+22.0,tous sexes,70120,2016,5.937,CAN_AUT_CAT,78,11,Autres cancers,de 65 à 69 ans,4160,9,Cancers,2,65-69,
+22.0,tous sexes,69700,2016,5.732,CAN_AUT_CAT,92,11,Autres cancers,de 65 à 69 ans,4000,9,Cancers,2,65-69,
+22.0,tous sexes,64040,2016,5.748,CAN_AUT_CAT,93,11,Autres cancers,de 65 à 69 ans,3680,9,Cancers,2,65-69,
+22.0,tous sexes,55420,2016,5.734,CAN_AUT_CAT,95,11,Autres cancers,de 65 à 69 ans,3180,9,Cancers,2,65-69,
+22.0,femmes,26460,2016,7.059,CAN_AUT_CAT,78,11,Autres cancers,de 70 à 74 ans,1870,2,Cancers,2,70-74,
+22.0,femmes,23150,2016,6.652,CAN_AUT_CAT,94,11,Autres cancers,de 70 à 74 ans,1540,2,Cancers,2,70-74,
+22.0,femmes,18750,2016,5.925,CAN_AUT_CAT,95,11,Autres cancers,de 70 à 74 ans,1110,2,Cancers,2,70-74,
+22.0,tous sexes,84620,2016,7.969,CAN_AUT_CAT,75,11,Autres cancers,de 70 à 74 ans,6740,9,Cancers,2,70-74,
+22.0,tous sexes,43470,2016,7.98,CAN_AUT_CAT,77,11,Autres cancers,de 70 à 74 ans,3470,9,Cancers,2,70-74,
+22.0,tous sexes,42190,2016,8.384,CAN_AUT_CAT,91,11,Autres cancers,de 70 à 74 ans,3540,9,Cancers,2,70-74,
+22.0,tous sexes,42350,2016,7.396,CAN_AUT_CAT,93,11,Autres cancers,de 70 à 74 ans,3130,9,Cancers,2,70-74,
+22.0,tous sexes,43590,2016,7.672,CAN_AUT_CAT,94,11,Autres cancers,de 70 à 74 ans,3340,9,Cancers,2,70-74,
+22.0,tous sexes,36390,2016,7.384,CAN_AUT_CAT,95,11,Autres cancers,de 70 à 74 ans,2690,9,Cancers,2,70-74,
+22.0,tous sexes,395610,2016,7.874,CAN_AUT_CAT,999,11,Autres cancers,de 70 à 74 ans,31150,9,Cancers,2,70-74,
+22.0,hommes,26650,2016,11.334,CAN_AUT_CAT,75,11,Autres cancers,de 75 à 79 ans,3020,1,Cancers,2,75-79,
+22.0,hommes,14550,2016,12.417,CAN_AUT_CAT,91,11,Autres cancers,de 75 à 79 ans,1810,1,Cancers,2,75-79,
+22.0,hommes,17510,2016,11.123,CAN_AUT_CAT,92,11,Autres cancers,de 75 à 79 ans,1950,1,Cancers,2,75-79,
+22.0,hommes,15240,2016,10.379,CAN_AUT_CAT,93,11,Autres cancers,de 75 à 79 ans,1580,1,Cancers,2,75-79,
+22.0,hommes,14720,2016,11.51,CAN_AUT_CAT,94,11,Autres cancers,de 75 à 79 ans,1690,1,Cancers,2,75-79,
+22.0,hommes,132740,2016,11.55,CAN_AUT_CAT,999,11,Autres cancers,de 75 à 79 ans,15330,1,Cancers,2,75-79,
+22.0,femmes,34140,2016,8.611,CAN_AUT_CAT,75,11,Autres cancers,de 75 à 79 ans,2940,2,Cancers,2,75-79,
+22.0,femmes,14500,2016,7.806,CAN_AUT_CAT,95,11,Autres cancers,de 75 à 79 ans,1130,2,Cancers,2,75-79,
+22.0,tous sexes,60790,2016,9.804,CAN_AUT_CAT,75,11,Autres cancers,de 75 à 79 ans,5960,9,Cancers,2,75-79,
+22.0,tous sexes,32290,2016,10.015,CAN_AUT_CAT,91,11,Autres cancers,de 75 à 79 ans,3230,9,Cancers,2,75-79,
+22.0,tous sexes,39280,2016,9.407,CAN_AUT_CAT,92,11,Autres cancers,de 75 à 79 ans,3700,9,Cancers,2,75-79,
+22.0,tous sexes,32070,2016,9.133,CAN_AUT_CAT,93,11,Autres cancers,de 75 à 79 ans,2930,9,Cancers,2,75-79,
+22.0,tous sexes,33580,2016,9.577,CAN_AUT_CAT,94,11,Autres cancers,de 75 à 79 ans,3220,9,Cancers,2,75-79,
+22.0,tous sexes,26690,2016,9.757,CAN_AUT_CAT,95,11,Autres cancers,de 75 à 79 ans,2600,9,Cancers,2,75-79,
+22.0,hommes,14090,2016,14.014,CAN_AUT_CAT,92,11,Autres cancers,de 80 à 84 ans,1970,1,Cancers,2,80-84,
+22.0,hommes,10990,2016,12.535,CAN_AUT_CAT,93,11,Autres cancers,de 80 à 84 ans,1380,1,Cancers,2,80-84,
+22.0,hommes,9210,2016,13.789,CAN_AUT_CAT,95,11,Autres cancers,de 80 à 84 ans,1270,1,Cancers,2,80-84,
+22.0,femmes,20930,2016,9.595,CAN_AUT_CAT,92,11,Autres cancers,de 80 à 84 ans,2010,2,Cancers,2,80-84,
+22.0,femmes,17930,2016,9.472,CAN_AUT_CAT,94,11,Autres cancers,de 80 à 84 ans,1700,2,Cancers,2,80-84,
+22.0,femmes,13260,2016,9.067,CAN_AUT_CAT,95,11,Autres cancers,de 80 à 84 ans,1200,2,Cancers,2,80-84,
+22.0,tous sexes,27840,2016,11.918,CAN_AUT_CAT,91,11,Autres cancers,de 80 à 84 ans,3320,9,Cancers,2,80-84,
+22.0,hommes,8300,2016,18.802,CAN_AUT_CAT,78,11,Autres cancers,de 85 à 89 ans,1560,1,Cancers,2,85-89,
+22.0,hommes,9250,2016,17.582,CAN_AUT_CAT,92,11,Autres cancers,de 85 à 89 ans,1630,1,Cancers,2,85-89,
+22.0,hommes,7250,2016,17.359,CAN_AUT_CAT,94,11,Autres cancers,de 85 à 89 ans,1260,1,Cancers,2,85-89,
+22.0,hommes,5500,2016,16.846,CAN_AUT_CAT,95,11,Autres cancers,de 85 à 89 ans,930,1,Cancers,2,85-89,
+22.0,femmes,11420,2016,10.641,CAN_AUT_CAT,91,11,Autres cancers,de 85 à 89 ans,1220,2,Cancers,2,85-89,
+22.0,femmes,17120,2016,10.191,CAN_AUT_CAT,92,11,Autres cancers,de 85 à 89 ans,1750,2,Cancers,2,85-89,
+22.0,femmes,13960,2016,11.082,CAN_AUT_CAT,94,11,Autres cancers,de 85 à 89 ans,1550,2,Cancers,2,85-89,
+22.0,tous sexes,176100,2016,12.936,CAN_AUT_CAT,999,11,Autres cancers,de 85 à 89 ans,22780,9,Cancers,2,85-89,
+22.0,hommes,2520,2016,16.799,CAN_AUT_CAT,77,11,Autres cancers,de 90 à 94 ans,420,1,Cancers,2,90-94,
+22.0,hommes,3300,2016,20.587,CAN_AUT_CAT,78,11,Autres cancers,de 90 à 94 ans,680,1,Cancers,2,90-94,
+22.0,femmes,15060,2016,11.526,CAN_AUT_CAT,75,11,Autres cancers,de 90 à 94 ans,1740,2,Cancers,2,90-94,
+22.0,femmes,6520,2016,10.566,CAN_AUT_CAT,77,11,Autres cancers,de 90 à 94 ans,690,2,Cancers,2,90-94,
+22.0,femmes,8030,2016,12.277,CAN_AUT_CAT,78,11,Autres cancers,de 90 à 94 ans,990,2,Cancers,2,90-94,
+22.0,femmes,7570,2016,11.861,CAN_AUT_CAT,94,11,Autres cancers,de 90 à 94 ans,900,2,Cancers,2,90-94,
+22.0,femmes,5560,2016,10.491,CAN_AUT_CAT,95,11,Autres cancers,de 90 à 94 ans,580,2,Cancers,2,90-94,
+22.0,tous sexes,11330,2016,14.699,CAN_AUT_CAT,78,11,Autres cancers,de 90 à 94 ans,1670,9,Cancers,2,90-94,
+22.0,tous sexes,8840,2016,13.51,CAN_AUT_CAT,91,11,Autres cancers,de 90 à 94 ans,1190,9,Cancers,2,90-94,
+22.0,hommes,600,2016,17.224,CAN_AUT_CAT,77,11,Autres cancers,plus de 95 ans,100,1,Cancers,2,95et+,
+22.0,hommes,1010,2016,19.071,CAN_AUT_CAT,92,11,Autres cancers,plus de 95 ans,190,1,Cancers,2,95et+,
+22.0,femmes,6060,2016,10.743,CAN_AUT_CAT,75,11,Autres cancers,plus de 95 ans,650,2,Cancers,2,95et+,
+22.0,femmes,2340,2016,9.036,CAN_AUT_CAT,77,11,Autres cancers,plus de 95 ans,210,2,Cancers,2,95et+,
+22.0,femmes,2410,2016,8.929,CAN_AUT_CAT,91,11,Autres cancers,plus de 95 ans,220,2,Cancers,2,95et+,
+22.0,femmes,3880,2016,10.24,CAN_AUT_CAT,92,11,Autres cancers,plus de 95 ans,400,2,Cancers,2,95et+,
+22.0,femmes,2700,2016,11.193,CAN_AUT_CAT,94,11,Autres cancers,plus de 95 ans,300,2,Cancers,2,95et+,
+22.0,femmes,1890,2016,9.433,CAN_AUT_CAT,95,11,Autres cancers,plus de 95 ans,180,2,Cancers,2,95et+,
+22.0,femmes,23880,2016,10.338,CAN_AUT_CAT,999,11,Autres cancers,plus de 95 ans,2470,2,Cancers,2,95et+,
+22.0,tous sexes,3500,2016,13.358,CAN_AUT_CAT,78,11,Autres cancers,plus de 95 ans,470,9,Cancers,2,95et+,
+22.0,hommes,650430,2016,2.344,CAN_AUT_CAT,77,11,Autres cancers,tous âges,15250,1,Cancers,2,tsage,
+22.0,hommes,675820,2016,2.602,CAN_AUT_CAT,78,11,Autres cancers,tous âges,17580,1,Cancers,2,tsage,
+22.0,hommes,723250,2016,2.391,CAN_AUT_CAT,92,11,Autres cancers,tous âges,17290,1,Cancers,2,tsage,
+22.0,hommes,622120,2016,2.432,CAN_AUT_CAT,94,11,Autres cancers,tous âges,15130,1,Cancers,2,tsage,
+22.0,femmes,705180,2016,2.182,CAN_AUT_CAT,77,11,Autres cancers,tous âges,15390,2,Cancers,2,tsage,
+22.0,femmes,628820,2016,1.962,CAN_AUT_CAT,95,11,Autres cancers,tous âges,12340,2,Cancers,2,tsage,
+22.0,femmes,6146060,2016,2.284,CAN_AUT_CAT,999,11,Autres cancers,tous âges,140400,2,Cancers,2,tsage,
+22.0,tous sexes,1527190,2016,1.95,CAN_AUT_CAT,93,11,Autres cancers,tous âges,29780,9,Cancers,2,tsage,
+64.0,hommes,46880,2016,0.051,CAN_AUT_ACT,95,11,Autres cancers,de 0 à 4 ans,20,1,Cancers,3,00-04,Autres cancers actifs
+64.0,femmes,53370,2016,0.054,CAN_AUT_ACT,75,11,Autres cancers,de 0 à 4 ans,30,2,Cancers,3,00-04,Autres cancers actifs
+64.0,femmes,45060,2016,0.047,CAN_AUT_ACT,78,11,Autres cancers,de 0 à 4 ans,20,2,Cancers,3,00-04,Autres cancers actifs
+64.0,femmes,52340,2016,0.055,CAN_AUT_ACT,92,11,Autres cancers,de 0 à 4 ans,30,2,Cancers,3,00-04,Autres cancers actifs
+64.0,femmes,45680,2016,0.066,CAN_AUT_ACT,94,11,Autres cancers,de 0 à 4 ans,30,2,Cancers,3,00-04,Autres cancers actifs
+64.0,femmes,391260,2016,0.046,CAN_AUT_ACT,999,11,Autres cancers,de 0 à 4 ans,180,2,Cancers,3,00-04,Autres cancers actifs
+64.0,tous sexes,92800,2016,0.034,CAN_AUT_ACT,77,11,Autres cancers,de 0 à 4 ans,30,9,Cancers,3,00-04,Autres cancers actifs
+64.0,tous sexes,93060,2016,0.056,CAN_AUT_ACT,78,11,Autres cancers,de 0 à 4 ans,50,9,Cancers,3,00-04,Autres cancers actifs
+64.0,tous sexes,88450,2016,0.04,CAN_AUT_ACT,91,11,Autres cancers,de 0 à 4 ans,40,9,Cancers,3,00-04,Autres cancers actifs
+64.0,tous sexes,107590,2016,0.057,CAN_AUT_ACT,92,11,Autres cancers,de 0 à 4 ans,60,9,Cancers,3,00-04,Autres cancers actifs
+64.0,tous sexes,93310,2016,0.057,CAN_AUT_ACT,94,11,Autres cancers,de 0 à 4 ans,50,9,Cancers,3,00-04,Autres cancers actifs
+64.0,hommes,50550,2016,0.071,CAN_AUT_ACT,75,11,Autres cancers,de 5 à 9 ans,40,1,Cancers,3,05-09,Autres cancers actifs
+64.0,hommes,49620,2016,0.073,CAN_AUT_ACT,77,11,Autres cancers,de 5 à 9 ans,40,1,Cancers,3,05-09,Autres cancers actifs
+64.0,hommes,45720,2016,0.09,CAN_AUT_ACT,91,11,Autres cancers,de 5 à 9 ans,40,1,Cancers,3,05-09,Autres cancers actifs
+64.0,femmes,49620,2016,0.073,CAN_AUT_ACT,92,11,Autres cancers,de 5 à 9 ans,40,2,Cancers,3,05-09,Autres cancers actifs
+64.0,femmes,381470,2016,0.063,CAN_AUT_ACT,999,11,Autres cancers,de 5 à 9 ans,240,2,Cancers,3,05-09,Autres cancers actifs
+64.0,tous sexes,96950,2016,0.07,CAN_AUT_ACT,77,11,Autres cancers,de 5 à 9 ans,70,9,Cancers,3,05-09,Autres cancers actifs
+64.0,tous sexes,97640,2016,0.073,CAN_AUT_ACT,78,11,Autres cancers,de 5 à 9 ans,70,9,Cancers,3,05-09,Autres cancers actifs
+64.0,tous sexes,101570,2016,0.067,CAN_AUT_ACT,92,11,Autres cancers,de 5 à 9 ans,70,9,Cancers,3,05-09,Autres cancers actifs
+64.0,tous sexes,118050,2016,0.066,CAN_AUT_ACT,93,11,Autres cancers,de 5 à 9 ans,80,9,Cancers,3,05-09,Autres cancers actifs
+64.0,tous sexes,88240,2016,0.069,CAN_AUT_ACT,94,11,Autres cancers,de 5 à 9 ans,60,9,Cancers,3,05-09,Autres cancers actifs
+64.0,hommes,47240,2016,0.064,CAN_AUT_ACT,75,11,Autres cancers,de 10 à 14 ans,30,1,Cancers,3,10-14,Autres cancers actifs
+64.0,hommes,41590,2016,0.048,CAN_AUT_ACT,91,11,Autres cancers,de 10 à 14 ans,20,1,Cancers,3,10-14,Autres cancers actifs
+64.0,hommes,40870,2016,0.056,CAN_AUT_ACT,94,11,Autres cancers,de 10 à 14 ans,20,1,Cancers,3,10-14,Autres cancers actifs
+64.0,femmes,44910,2016,0.078,CAN_AUT_ACT,77,11,Autres cancers,de 10 à 14 ans,40,2,Cancers,3,10-14,Autres cancers actifs
+64.0,femmes,46120,2016,0.069,CAN_AUT_ACT,78,11,Autres cancers,de 10 à 14 ans,30,2,Cancers,3,10-14,Autres cancers actifs
+64.0,femmes,44610,2016,0.047,CAN_AUT_ACT,92,11,Autres cancers,de 10 à 14 ans,20,2,Cancers,3,10-14,Autres cancers actifs
+64.0,tous sexes,81740,2016,0.055,CAN_AUT_ACT,91,11,Autres cancers,de 10 à 14 ans,50,9,Cancers,3,10-14,Autres cancers actifs
+64.0,tous sexes,91210,2016,0.05,CAN_AUT_ACT,92,11,Autres cancers,de 10 à 14 ans,50,9,Cancers,3,10-14,Autres cancers actifs
